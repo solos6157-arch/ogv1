@@ -1,0 +1,1 @@
+Put your MP3 files in this folder. Add each song to ../songs.json.

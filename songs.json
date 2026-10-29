@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Example Song",
+    "artist": "NAKRI x OG",
+    "file": "songs/example-song.mp3",
+    "cover": "thumbnails/example-song.png",
+    "duration": "MP3"
+  }
+]
